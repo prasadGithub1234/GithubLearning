@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage":"https://prasadGithub1234.github.io/my-app",
+  "homepage":"https://prasadgithub1234.github.io/GithubLearning/my-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
+    "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
